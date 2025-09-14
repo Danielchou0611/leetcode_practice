@@ -36,10 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Danielchou0611/leetcode_practice/tree/master/0022-generate-parentheses) |
 | [0139-word-break](https://github.com/Danielchou0611/leetcode_practice/tree/master/0139-word-break) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Danielchou0611/leetcode_practice/tree/master/0022-generate-parentheses) |
 | [0139-word-break](https://github.com/Danielchou0611/leetcode_practice/tree/master/0139-word-break) |
 ## Trie
 |  |
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Danielchou0611/leetcode_practice/tree/master/0139-word-break) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Danielchou0611/leetcode_practice/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
