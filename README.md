@@ -34,10 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Danielchou0611/leetcode_practice/tree/master/0012-integer-to-roman) |
 | [0139-word-break](https://github.com/Danielchou0611/leetcode_practice/tree/master/0139-word-break) |
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Danielchou0611/leetcode_practice/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/Danielchou0611/leetcode_practice/tree/master/0022-generate-parentheses) |
 | [0139-word-break](https://github.com/Danielchou0611/leetcode_practice/tree/master/0139-word-break) |
 ## Dynamic Programming
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Danielchou0611/leetcode_practice/tree/master/0561-array-partition) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Danielchou0611/leetcode_practice/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
