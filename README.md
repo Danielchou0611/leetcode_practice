@@ -25,10 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Danielchou0611/leetcode_practice/tree/master/0015-3sum) |
 | [0139-word-break](https://github.com/Danielchou0611/leetcode_practice/tree/master/0139-word-break) |
+| [0561-array-partition](https://github.com/Danielchou0611/leetcode_practice/tree/master/0561-array-partition) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Danielchou0611/leetcode_practice/tree/master/0015-3sum) |
+| [0561-array-partition](https://github.com/Danielchou0611/leetcode_practice/tree/master/0561-array-partition) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Danielchou0611/leetcode_practice/tree/master/0022-generate-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Danielchou0611/leetcode_practice/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Danielchou0611/leetcode_practice/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
