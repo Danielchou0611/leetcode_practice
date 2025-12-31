@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Danielchou0611/leetcode_practice/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/Danielchou0611/leetcode_practice/tree/master/0022-generate-parentheses) |
 | [0139-word-break](https://github.com/Danielchou0611/leetcode_practice/tree/master/0139-word-break) |
+| [0257-binary-tree-paths](https://github.com/Danielchou0611/leetcode_practice/tree/master/0257-binary-tree-paths) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Danielchou0611/leetcode_practice/tree/master/0022-generate-parentheses) |
+| [0257-binary-tree-paths](https://github.com/Danielchou0611/leetcode_practice/tree/master/0257-binary-tree-paths) |
 ## Greedy
 |  |
 | ------- |
@@ -71,4 +73,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Danielchou0611/leetcode_practice/tree/master/0012-integer-to-roman) |
+## Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Danielchou0611/leetcode_practice/tree/master/0257-binary-tree-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Danielchou0611/leetcode_practice/tree/master/0257-binary-tree-paths) |
+## Binary Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Danielchou0611/leetcode_practice/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
