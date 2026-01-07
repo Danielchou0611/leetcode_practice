@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Danielchou0611/leetcode_practice/tree/master/0143-reorder-list) |
+| [0225-implement-stack-using-queues](https://github.com/Danielchou0611/leetcode_practice/tree/master/0225-implement-stack-using-queues) |
 ## Recursion
 |  |
 | ------- |
@@ -106,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Danielchou0611/leetcode_practice/tree/master/0099-recover-binary-search-tree) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Danielchou0611/leetcode_practice/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Danielchou0611/leetcode_practice/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
