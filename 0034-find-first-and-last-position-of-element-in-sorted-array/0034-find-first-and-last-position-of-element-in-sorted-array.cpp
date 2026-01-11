@@ -17,10 +17,7 @@ public:
         this->start = -1;
         this->end = -1;
         binary_search(nums, 0, nums.size() - 1, target);
-        vector<int> result;
-        result.push_back(start);
-        result.push_back(end);
-        return result;
+        return {start, end};
     }
     void binary_search(vector<int> &nums, int left, int right, int target)
     {
