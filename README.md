@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Danielchou0611/leetcode_practice/tree/master/0012-integer-to-roman) |
 | [0171-excel-sheet-column-number](https://github.com/Danielchou0611/leetcode_practice/tree/master/0171-excel-sheet-column-number) |
+| [0292-nim-game](https://github.com/Danielchou0611/leetcode_practice/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/Danielchou0611/leetcode_practice/tree/master/0342-power-of-four) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Danielchou0611/leetcode_practice/tree/master/0357-count-numbers-with-unique-digits) |
 ## Tree
@@ -145,4 +146,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Danielchou0611/leetcode_practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Danielchou0611/leetcode_practice/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Danielchou0611/leetcode_practice/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
