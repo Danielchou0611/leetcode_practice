@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Danielchou0611/leetcode_practice/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Danielchou0611/leetcode_practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Danielchou0611/leetcode_practice/tree/master/0015-3sum) |
 | [0086-partition-list](https://github.com/Danielchou0611/leetcode_practice/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/Danielchou0611/leetcode_practice/tree/master/0143-reorder-list) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Danielchou0611/leetcode_practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Danielchou0611/leetcode_practice/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Danielchou0611/leetcode_practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/Danielchou0611/leetcode_practice/tree/master/0073-set-matrix-zeroes) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Danielchou0611/leetcode_practice/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Danielchou0611/leetcode_practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0561-array-partition](https://github.com/Danielchou0611/leetcode_practice/tree/master/0561-array-partition) |
 ## Counting Sort
