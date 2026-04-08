@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Danielchou0611/leetcode_practice/tree/master/0463-island-perimeter) |
 | [0506-relative-ranks](https://github.com/Danielchou0611/leetcode_practice/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Danielchou0611/leetcode_practice/tree/master/0561-array-partition) |
+| [1207-unique-number-of-occurrences](https://github.com/Danielchou0611/leetcode_practice/tree/master/1207-unique-number-of-occurrences) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Danielchou0611/leetcode_practice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Sorting
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Danielchou0611/leetcode_practice/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/Danielchou0611/leetcode_practice/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/Danielchou0611/leetcode_practice/tree/master/0139-word-break) |
+| [1207-unique-number-of-occurrences](https://github.com/Danielchou0611/leetcode_practice/tree/master/1207-unique-number-of-occurrences) |
 ## String
 |  |
 | ------- |
