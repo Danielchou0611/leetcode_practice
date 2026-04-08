@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Danielchou0611/leetcode_practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Danielchou0611/leetcode_practice/tree/master/0139-word-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Danielchou0611/leetcode_practice/tree/master/0357-count-numbers-with-unique-digits) |
+| [1137-n-th-tribonacci-number](https://github.com/Danielchou0611/leetcode_practice/tree/master/1137-n-th-tribonacci-number) |
 ## Trie
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Danielchou0611/leetcode_practice/tree/master/0139-word-break) |
+| [1137-n-th-tribonacci-number](https://github.com/Danielchou0611/leetcode_practice/tree/master/1137-n-th-tribonacci-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Danielchou0611/leetcode_practice/tree/master/0342-power-of-four) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Danielchou0611/leetcode_practice/tree/master/0357-count-numbers-with-unique-digits) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Danielchou0611/leetcode_practice/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1137-n-th-tribonacci-number](https://github.com/Danielchou0611/leetcode_practice/tree/master/1137-n-th-tribonacci-number) |
 ## Tree
 |  |
 | ------- |
