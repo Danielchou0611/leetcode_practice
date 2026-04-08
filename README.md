@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Danielchou0611/leetcode_practice/tree/master/0073-set-matrix-zeroes) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Danielchou0611/leetcode_practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Danielchou0611/leetcode_practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/Danielchou0611/leetcode_practice/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Danielchou0611/leetcode_practice/tree/master/0139-word-break) |
 | [0463-island-perimeter](https://github.com/Danielchou0611/leetcode_practice/tree/master/0463-island-perimeter) |
 | [0506-relative-ranks](https://github.com/Danielchou0611/leetcode_practice/tree/master/0506-relative-ranks) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Danielchou0611/leetcode_practice/tree/master/0136-single-number) |
 | [0342-power-of-four](https://github.com/Danielchou0611/leetcode_practice/tree/master/0342-power-of-four) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Danielchou0611/leetcode_practice/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Binary Search Tree
