@@ -16,4 +16,3 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: int
         """
-        
