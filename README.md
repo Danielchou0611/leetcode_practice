@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Danielchou0611/leetcode_practice/tree/master/0342-power-of-four) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Danielchou0611/leetcode_practice/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Binary Search Tree
 |  |
 | ------- |
