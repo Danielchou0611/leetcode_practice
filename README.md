@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Danielchou0611/leetcode_practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Danielchou0611/leetcode_practice/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Danielchou0611/leetcode_practice/tree/master/0139-word-break) |
+| [0162-find-peak-element](https://github.com/Danielchou0611/leetcode_practice/tree/master/0162-find-peak-element) |
 | [0463-island-perimeter](https://github.com/Danielchou0611/leetcode_practice/tree/master/0463-island-perimeter) |
 | [0506-relative-ranks](https://github.com/Danielchou0611/leetcode_practice/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Danielchou0611/leetcode_practice/tree/master/0561-array-partition) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Danielchou0611/leetcode_practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0099-recover-binary-search-tree](https://github.com/Danielchou0611/leetcode_practice/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Danielchou0611/leetcode_practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0162-find-peak-element](https://github.com/Danielchou0611/leetcode_practice/tree/master/0162-find-peak-element) |
 ## Design
 |  |
 | ------- |
