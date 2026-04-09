@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Danielchou0611/leetcode_practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Danielchou0611/leetcode_practice/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Danielchou0611/leetcode_practice/tree/master/0334-increasing-triplet-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/Danielchou0611/leetcode_practice/tree/master/0435-non-overlapping-intervals) |
 | [0463-island-perimeter](https://github.com/Danielchou0611/leetcode_practice/tree/master/0463-island-perimeter) |
 | [0506-relative-ranks](https://github.com/Danielchou0611/leetcode_practice/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Danielchou0611/leetcode_practice/tree/master/0561-array-partition) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Danielchou0611/leetcode_practice/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Danielchou0611/leetcode_practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0435-non-overlapping-intervals](https://github.com/Danielchou0611/leetcode_practice/tree/master/0435-non-overlapping-intervals) |
 | [0506-relative-ranks](https://github.com/Danielchou0611/leetcode_practice/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Danielchou0611/leetcode_practice/tree/master/0561-array-partition) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Danielchou0611/leetcode_practice/tree/master/1657-determine-if-two-strings-are-close) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Danielchou0611/leetcode_practice/tree/master/0338-counting-bits) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Danielchou0611/leetcode_practice/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/Danielchou0611/leetcode_practice/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/Danielchou0611/leetcode_practice/tree/master/0435-non-overlapping-intervals) |
 | [1137-n-th-tribonacci-number](https://github.com/Danielchou0611/leetcode_practice/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Danielchou0611/leetcode_practice/tree/master/1143-longest-common-subsequence) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Danielchou0611/leetcode_practice/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Danielchou0611/leetcode_practice/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Danielchou0611/leetcode_practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Danielchou0611/leetcode_practice/tree/master/0334-increasing-triplet-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/Danielchou0611/leetcode_practice/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/Danielchou0611/leetcode_practice/tree/master/0561-array-partition) |
 | [2542-maximum-subsequence-score](https://github.com/Danielchou0611/leetcode_practice/tree/master/2542-maximum-subsequence-score) |
 ## Counting Sort
