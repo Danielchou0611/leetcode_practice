@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Danielchou0611/leetcode_practice/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Danielchou0611/leetcode_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Danielchou0611/leetcode_practice/tree/master/0022-generate-parentheses) |
+| [0072-edit-distance](https://github.com/Danielchou0611/leetcode_practice/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/Danielchou0611/leetcode_practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Danielchou0611/leetcode_practice/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Danielchou0611/leetcode_practice/tree/master/0151-reverse-words-in-a-string) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Danielchou0611/leetcode_practice/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Danielchou0611/leetcode_practice/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Danielchou0611/leetcode_practice/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/Danielchou0611/leetcode_practice/tree/master/0072-edit-distance) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Danielchou0611/leetcode_practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/Danielchou0611/leetcode_practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Danielchou0611/leetcode_practice/tree/master/0139-word-break) |
