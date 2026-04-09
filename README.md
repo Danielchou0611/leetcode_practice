@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Danielchou0611/leetcode_practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Danielchou0611/leetcode_practice/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Danielchou0611/leetcode_practice/tree/master/0746-min-cost-climbing-stairs) |
+| [0875-koko-eating-bananas](https://github.com/Danielchou0611/leetcode_practice/tree/master/0875-koko-eating-bananas) |
 | [1207-unique-number-of-occurrences](https://github.com/Danielchou0611/leetcode_practice/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Danielchou0611/leetcode_practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Danielchou0611/leetcode_practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Danielchou0611/leetcode_practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0450-delete-node-in-a-bst](https://github.com/Danielchou0611/leetcode_practice/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Danielchou0611/leetcode_practice/tree/master/0700-search-in-a-binary-search-tree) |
+| [0875-koko-eating-bananas](https://github.com/Danielchou0611/leetcode_practice/tree/master/0875-koko-eating-bananas) |
 ## Design
 |  |
 | ------- |
