@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Danielchou0611/leetcode_practice/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Danielchou0611/leetcode_practice/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/Danielchou0611/leetcode_practice/tree/master/0062-unique-paths) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Danielchou0611/leetcode_practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/Danielchou0611/leetcode_practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Danielchou0611/leetcode_practice/tree/master/0139-word-break) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Danielchou0611/leetcode_practice/tree/master/0012-integer-to-roman) |
+| [0062-unique-paths](https://github.com/Danielchou0611/leetcode_practice/tree/master/0062-unique-paths) |
 | [0171-excel-sheet-column-number](https://github.com/Danielchou0611/leetcode_practice/tree/master/0171-excel-sheet-column-number) |
 | [0292-nim-game](https://github.com/Danielchou0611/leetcode_practice/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/Danielchou0611/leetcode_practice/tree/master/0342-power-of-four) |
@@ -318,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Danielchou0611/leetcode_practice/tree/master/0547-number-of-provinces) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Danielchou0611/leetcode_practice/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
