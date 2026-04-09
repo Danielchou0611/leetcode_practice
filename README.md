@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Danielchou0611/leetcode_practice/tree/master/0225-implement-stack-using-queues) |
 | [0735-asteroid-collision](https://github.com/Danielchou0611/leetcode_practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Danielchou0611/leetcode_practice/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Danielchou0611/leetcode_practice/tree/master/0901-online-stock-span) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Danielchou0611/leetcode_practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Danielchou0611/leetcode_practice/tree/master/2390-removing-stars-from-a-string) |
 ## Recursion
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Danielchou0611/leetcode_practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/Danielchou0611/leetcode_practice/tree/master/0225-implement-stack-using-queues) |
+| [0901-online-stock-span](https://github.com/Danielchou0611/leetcode_practice/tree/master/0901-online-stock-span) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Danielchou0611/leetcode_practice/tree/master/2336-smallest-number-in-infinite-set) |
 ## Queue
 |  |
@@ -355,4 +357,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Danielchou0611/leetcode_practice/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Danielchou0611/leetcode_practice/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Danielchou0611/leetcode_practice/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
