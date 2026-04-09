@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Danielchou0611/leetcode_practice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Danielchou0611/leetcode_practice/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Danielchou0611/leetcode_practice/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/Danielchou0611/leetcode_practice/tree/master/2352-equal-row-and-column-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Danielchou0611/leetcode_practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Danielchou0611/leetcode_practice/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Danielchou0611/leetcode_practice/tree/master/2336-smallest-number-in-infinite-set) |
+| [2352-equal-row-and-column-pairs](https://github.com/Danielchou0611/leetcode_practice/tree/master/2352-equal-row-and-column-pairs) |
 ## String
 |  |
 | ------- |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Danielchou0611/leetcode_practice/tree/master/0463-island-perimeter) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Danielchou0611/leetcode_practice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Danielchou0611/leetcode_practice/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [2352-equal-row-and-column-pairs](https://github.com/Danielchou0611/leetcode_practice/tree/master/2352-equal-row-and-column-pairs) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -260,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/Danielchou0611/leetcode_practice/tree/master/2336-smallest-number-in-infinite-set) |
+## Simulation
+|  |
+| ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/Danielchou0611/leetcode_practice/tree/master/2352-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
