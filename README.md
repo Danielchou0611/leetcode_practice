@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Danielchou0611/leetcode_practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Danielchou0611/leetcode_practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Danielchou0611/leetcode_practice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Danielchou0611/leetcode_practice/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Sorting
 |  |
 | ------- |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Danielchou0611/leetcode_practice/tree/master/0073-set-matrix-zeroes) |
 | [0463-island-perimeter](https://github.com/Danielchou0611/leetcode_practice/tree/master/0463-island-perimeter) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Danielchou0611/leetcode_practice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Danielchou0611/leetcode_practice/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Danielchou0611/leetcode_practice/tree/master/0463-island-perimeter) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Danielchou0611/leetcode_practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Danielchou0611/leetcode_practice/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Danielchou0611/leetcode_practice/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Divide and Conquer
 |  |
 | ------- |
