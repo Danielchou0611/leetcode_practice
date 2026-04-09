@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Danielchou0611/leetcode_practice/tree/master/0463-island-perimeter) |
 | [0506-relative-ranks](https://github.com/Danielchou0611/leetcode_practice/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Danielchou0611/leetcode_practice/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/Danielchou0611/leetcode_practice/tree/master/0605-can-place-flowers) |
 | [1207-unique-number-of-occurrences](https://github.com/Danielchou0611/leetcode_practice/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Danielchou0611/leetcode_practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Danielchou0611/leetcode_practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Danielchou0611/leetcode_practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Danielchou0611/leetcode_practice/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/Danielchou0611/leetcode_practice/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/Danielchou0611/leetcode_practice/tree/master/0605-can-place-flowers) |
 | [2542-maximum-subsequence-score](https://github.com/Danielchou0611/leetcode_practice/tree/master/2542-maximum-subsequence-score) |
 ## Counting Sort
 |  |
