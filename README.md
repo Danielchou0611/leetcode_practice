@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Danielchou0611/leetcode_practice/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Danielchou0611/leetcode_practice/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/Danielchou0611/leetcode_practice/tree/master/0463-island-perimeter) |
+| [0547-number-of-provinces](https://github.com/Danielchou0611/leetcode_practice/tree/master/0547-number-of-provinces) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Danielchou0611/leetcode_practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Danielchou0611/leetcode_practice/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Danielchou0611/leetcode_practice/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Danielchou0611/leetcode_practice/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Danielchou0611/leetcode_practice/tree/master/0199-binary-tree-right-side-view) |
 | [0463-island-perimeter](https://github.com/Danielchou0611/leetcode_practice/tree/master/0463-island-perimeter) |
+| [0547-number-of-provinces](https://github.com/Danielchou0611/leetcode_practice/tree/master/0547-number-of-provinces) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Danielchou0611/leetcode_practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Danielchou0611/leetcode_practice/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Danielchou0611/leetcode_practice/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -306,4 +308,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Danielchou0611/leetcode_practice/tree/master/0374-guess-number-higher-or-lower) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Danielchou0611/leetcode_practice/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Danielchou0611/leetcode_practice/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
