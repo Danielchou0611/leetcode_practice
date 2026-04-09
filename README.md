@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0086-partition-list](https://github.com/Danielchou0611/leetcode_practice/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/Danielchou0611/leetcode_practice/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/Danielchou0611/leetcode_practice/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Danielchou0611/leetcode_practice/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/Danielchou0611/leetcode_practice/tree/master/0206-reverse-linked-list) |
 | [0342-power-of-four](https://github.com/Danielchou0611/leetcode_practice/tree/master/0342-power-of-four) |
 ## Array
 |  |
