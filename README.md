@@ -266,11 +266,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Danielchou0611/leetcode_practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/Danielchou0611/leetcode_practice/tree/master/0225-implement-stack-using-queues) |
 | [0901-online-stock-span](https://github.com/Danielchou0611/leetcode_practice/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/Danielchou0611/leetcode_practice/tree/master/0933-number-of-recent-calls) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Danielchou0611/leetcode_practice/tree/master/2336-smallest-number-in-infinite-set) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Danielchou0611/leetcode_practice/tree/master/0225-implement-stack-using-queues) |
+| [0933-number-of-recent-calls](https://github.com/Danielchou0611/leetcode_practice/tree/master/0933-number-of-recent-calls) |
 ## Matrix
 |  |
 | ------- |
@@ -362,4 +364,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Danielchou0611/leetcode_practice/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/Danielchou0611/leetcode_practice/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
