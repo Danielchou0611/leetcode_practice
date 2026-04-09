@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Danielchou0611/leetcode_practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Danielchou0611/leetcode_practice/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Danielchou0611/leetcode_practice/tree/master/0198-house-robber) |
+| [0338-counting-bits](https://github.com/Danielchou0611/leetcode_practice/tree/master/0338-counting-bits) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Danielchou0611/leetcode_practice/tree/master/0357-count-numbers-with-unique-digits) |
 | [1137-n-th-tribonacci-number](https://github.com/Danielchou0611/leetcode_practice/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Danielchou0611/leetcode_practice/tree/master/1143-longest-common-subsequence) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Danielchou0611/leetcode_practice/tree/master/0136-single-number) |
+| [0338-counting-bits](https://github.com/Danielchou0611/leetcode_practice/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Danielchou0611/leetcode_practice/tree/master/0342-power-of-four) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Danielchou0611/leetcode_practice/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Binary Search Tree
