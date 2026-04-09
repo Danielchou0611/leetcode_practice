@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Danielchou0611/leetcode_practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Danielchou0611/leetcode_practice/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Danielchou0611/leetcode_practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/Danielchou0611/leetcode_practice/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/Danielchou0611/leetcode_practice/tree/master/0257-binary-tree-paths) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Danielchou0611/leetcode_practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Danielchou0611/leetcode_practice/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Danielchou0611/leetcode_practice/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Danielchou0611/leetcode_practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/Danielchou0611/leetcode_practice/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/Danielchou0611/leetcode_practice/tree/master/0257-binary-tree-paths) |
 | [0463-island-perimeter](https://github.com/Danielchou0611/leetcode_practice/tree/master/0463-island-perimeter) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Danielchou0611/leetcode_practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Danielchou0611/leetcode_practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Danielchou0611/leetcode_practice/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Danielchou0611/leetcode_practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/Danielchou0611/leetcode_practice/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/Danielchou0611/leetcode_practice/tree/master/0257-binary-tree-paths) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Danielchou0611/leetcode_practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Danielchou0611/leetcode_practice/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Danielchou0611/leetcode_practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Danielchou0611/leetcode_practice/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0199-binary-tree-right-side-view](https://github.com/Danielchou0611/leetcode_practice/tree/master/0199-binary-tree-right-side-view) |
 | [0463-island-perimeter](https://github.com/Danielchou0611/leetcode_practice/tree/master/0463-island-perimeter) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Danielchou0611/leetcode_practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Danielchou0611/leetcode_practice/tree/master/1448-count-good-nodes-in-binary-tree) |
