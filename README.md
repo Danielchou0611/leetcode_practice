@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Danielchou0611/leetcode_practice/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Danielchou0611/leetcode_practice/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Danielchou0611/leetcode_practice/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Danielchou0611/leetcode_practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Danielchou0611/leetcode_practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Danielchou0611/leetcode_practice/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Danielchou0611/leetcode_practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Danielchou0611/leetcode_practice/tree/master/0171-excel-sheet-column-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Danielchou0611/leetcode_practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0257-binary-tree-paths](https://github.com/Danielchou0611/leetcode_practice/tree/master/0257-binary-tree-paths) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Danielchou0611/leetcode_practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Danielchou0611/leetcode_practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/Danielchou0611/leetcode_practice/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Danielchou0611/leetcode_practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
