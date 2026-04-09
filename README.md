@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Danielchou0611/leetcode_practice/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Danielchou0611/leetcode_practice/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/Danielchou0611/leetcode_practice/tree/master/0162-find-peak-element) |
+| [0198-house-robber](https://github.com/Danielchou0611/leetcode_practice/tree/master/0198-house-robber) |
 | [0463-island-perimeter](https://github.com/Danielchou0611/leetcode_practice/tree/master/0463-island-perimeter) |
 | [0506-relative-ranks](https://github.com/Danielchou0611/leetcode_practice/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Danielchou0611/leetcode_practice/tree/master/0561-array-partition) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Danielchou0611/leetcode_practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/Danielchou0611/leetcode_practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Danielchou0611/leetcode_practice/tree/master/0139-word-break) |
+| [0198-house-robber](https://github.com/Danielchou0611/leetcode_practice/tree/master/0198-house-robber) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Danielchou0611/leetcode_practice/tree/master/0357-count-numbers-with-unique-digits) |
 | [1137-n-th-tribonacci-number](https://github.com/Danielchou0611/leetcode_practice/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Danielchou0611/leetcode_practice/tree/master/1143-longest-common-subsequence) |
