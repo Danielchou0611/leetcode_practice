@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/Danielchou0611/leetcode_practice/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/Danielchou0611/leetcode_practice/tree/master/0225-implement-stack-using-queues) |
+| [0735-asteroid-collision](https://github.com/Danielchou0611/leetcode_practice/tree/master/0735-asteroid-collision) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Danielchou0611/leetcode_practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Danielchou0611/leetcode_practice/tree/master/2390-removing-stars-from-a-string) |
 ## Recursion
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Danielchou0611/leetcode_practice/tree/master/0643-maximum-average-subarray-i) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Danielchou0611/leetcode_practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/Danielchou0611/leetcode_practice/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/Danielchou0611/leetcode_practice/tree/master/0735-asteroid-collision) |
 | [1207-unique-number-of-occurrences](https://github.com/Danielchou0611/leetcode_practice/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Danielchou0611/leetcode_practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Danielchou0611/leetcode_practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Danielchou0611/leetcode_practice/tree/master/0735-asteroid-collision) |
 | [2352-equal-row-and-column-pairs](https://github.com/Danielchou0611/leetcode_practice/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/Danielchou0611/leetcode_practice/tree/master/2390-removing-stars-from-a-string) |
 ## Prefix Sum
