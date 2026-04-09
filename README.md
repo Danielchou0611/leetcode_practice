@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/Danielchou0611/leetcode_practice/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Danielchou0611/leetcode_practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Danielchou0611/leetcode_practice/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2336-smallest-number-in-infinite-set](https://github.com/Danielchou0611/leetcode_practice/tree/master/2336-smallest-number-in-infinite-set) |
 ## String
 |  |
 | ------- |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Danielchou0611/leetcode_practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/Danielchou0611/leetcode_practice/tree/master/0225-implement-stack-using-queues) |
+| [2336-smallest-number-in-infinite-set](https://github.com/Danielchou0611/leetcode_practice/tree/master/2336-smallest-number-in-infinite-set) |
 ## Queue
 |  |
 | ------- |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Danielchou0611/leetcode_practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/Danielchou0611/leetcode_practice/tree/master/0506-relative-ranks) |
+| [2336-smallest-number-in-infinite-set](https://github.com/Danielchou0611/leetcode_practice/tree/master/2336-smallest-number-in-infinite-set) |
 ## Sliding Window
 |  |
 | ------- |
@@ -253,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Danielchou0611/leetcode_practice/tree/master/0215-kth-largest-element-in-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/Danielchou0611/leetcode_practice/tree/master/2336-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
