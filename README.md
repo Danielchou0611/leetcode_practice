@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/Danielchou0611/leetcode_practice/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Danielchou0611/leetcode_practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/Danielchou0611/leetcode_practice/tree/master/0162-find-peak-element) |
+| [0374-guess-number-higher-or-lower](https://github.com/Danielchou0611/leetcode_practice/tree/master/0374-guess-number-higher-or-lower) |
 ## Design
 |  |
 | ------- |
@@ -288,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Danielchou0611/leetcode_practice/tree/master/0238-product-of-array-except-self) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Danielchou0611/leetcode_practice/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
